@@ -5,6 +5,9 @@ The script needs a text file as input. `sentences.txt`
 
 ## output
 - Each sentence is saved as a separate MP4 file.
-- The filename follows this format: "sentence + sentence number".
+- The filename follows this format: "sentence + _ + sentence number".
 - Having separate MP4 files allows for a modular way of creating videos.
-- You can overlay these text animations on each scene easily.
+- you can join all mp4 files as well.
+- You can overlay these text animations on each scene easily. 
+  - Use chroma key in your video editor to filter black background.
+  - Then you will only see the letters without background
