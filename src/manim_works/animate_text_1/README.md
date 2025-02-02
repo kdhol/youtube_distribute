@@ -11,3 +11,5 @@ The script needs a text file as input. `sentences.txt`
 - You can overlay these text animations on each scene easily. 
   - Use chroma key in your video editor to filter black background.
   - Then you will only see the letters without background
+ 
+[![Watch the video](https://img.youtube.com/vi/AsJigAzclDk/maxresdefault.jpg)](https://youtu.be/AsJigAzclDk)
